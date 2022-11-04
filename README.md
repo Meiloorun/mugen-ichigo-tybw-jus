@@ -214,9 +214,9 @@ x - Cero + Getsuga Tenshou + Final Zanpakuto
 -3000 power
 
 <h2>Credits</h2>
-Salah Uchiha: https://www.youtube.com/c/SalahUchiha
-Knightmare404: https://www.youtube.com/channel/UCZLqFIMyJct6P8BLljTNPvw
-SonikkuTSK: https://www.youtube.com/channel/UCBPl7il8vr8krrI0ugYwtoA
-MateoG9: https://www.youtube.com/channel/UCGxcBoszrle30N-2RMlJrXg
-Sianza M.U.G.E.N: https://www.youtube.com/channel/UC-ktBpGhYpUNIoJ5JYzqoSw
-ShiramiX: https://www.youtube.com/channel/UCK3OjEbaR294hh0XOxwFOGg
+<a href="https://www.youtube.com/c/SalahUchiha">Salah Uchiha</a><br>
+<a href="https://www.youtube.com/channel/UCZLqFIMyJct6P8BLljTNPvw">Knightmare404</a><br>
+<a href="https://www.youtube.com/channel/UCBPl7il8vr8krrI0ugYwtoA">SonikkuTSK</a><br>
+<a href="https://www.youtube.com/channel/UCGxcBoszrle30N-2RMlJrXg">MateoG9</a><br>
+<a href="https://www.youtube.com/channel/UC-ktBpGhYpUNIoJ5JYzqoSw">Sianza M.U.G.E.N</a><br>
+<a href="https://www.youtube.com/channel/UCK3OjEbaR294hh0XOxwFOGg">ShiramiX</a><br>
