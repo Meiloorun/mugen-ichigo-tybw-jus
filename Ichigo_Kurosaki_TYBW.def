@@ -1,0 +1,33 @@
+
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************      http://www.virtualltek.com     *******************;
+;***************************************************************************;
+
+[Info]
+name = "Ichigo_Kurosaki_TYBW"
+displayname = "Ichigo Kurosaki (TYBW)"
+versiondate = 24/03/2018
+mugenversion = 1.0
+author = "victor; Edited by Sianza Mugen TH; Edited ShiramiX; Edited by Meiloorun"
+pal.defaults = 1
+
+[Files]
+sprite = Ichigo_Kurosaki_TYBW.sff
+anim = Ichigo_Kurosaki_TYBW.air
+sound = Ichigo_Kurosaki_TYBW.snd
+cmd = Ichigo_Kurosaki_TYBW.cmd
+cns = Ichigo_Kurosaki_TYBW.cns
+stcommon = common1.cns
+st = Ichigo_Kurosaki_TYBW.cns
+st1 = IA.cns
+st2 = Especiales.cns
+st3 = Supers.cns
+st4 = HOS.cns
+st5 = BANKAI.cns
+st6 = HOS + BANKAI.cns
+pal1 = 1.act
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 
