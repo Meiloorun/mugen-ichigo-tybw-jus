@@ -1,4 +1,4 @@
-# mugen-ichigo-tybw-jus
+# Ichigo Kurosaki (Thousand Year Blood War) Mugen Character JUS
 Ichigo Kurosaki from the popular Manga series Bleach, in his True Shikai and Bankai form as a character for the M.U.G.E.N Engine.
 
 This is an edit, I wanted to do this Ichigo justice so I made an edit with all-new FX, AI Improvements and much more.
