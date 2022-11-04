@@ -4,7 +4,8 @@ Ichigo Kurosaki from the popular Manga series Bleach, in his True Shikai and Ban
 This is an edit, I wanted to do this Ichigo justice so I made an edit with all-new FX, AI Improvements and much more.
 
 <h2>Showcase</h2>
-https://www.youtube.com/watch?v=8pg6ZFXMliM
+
+[![thumbnail](https://user-images.githubusercontent.com/49651674/199985823-e08a89de-33ea-439e-9043-24aa0f55177b.png)](https://www.youtube.com/watch?v=8pg6ZFXMliM "Showcase")
 
 <h2>Command List</h2>
 
